@@ -25,6 +25,6 @@ A scatter plot graph called 'Actual Data' of appropriate dimensions will display
 In the end, the program will under-go KNN Clustering for different k-values and varying training split percentages and display their accuracy. The k-value and training split that gives the highest accuracy is displayed at the end of the program. For a more detailed description on how these algorithms were implemented please refer to the report.
 
 <p align="center">
-  <img src="https://github.com/valerija-h/ICS2207-Assignment/blob/main/images/Output.png" width="40%"/>
+  <img src="https://github.com/valerija-h/ICS2207-Assignment/blob/main/images/Output.png" width="60%"/>
 </p>
 <p align="center"><b>Figure 3</b> - KNN Clustering Algorithm for different k-values and training splits for the same data chosen in Figure 1.</p>
