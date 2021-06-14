@@ -1,4 +1,4 @@
-# ICS2207-Assignment - Experimenting with k-Means and KNN
+# Experimenting with k-Means and KNN using Python
 
 In this assignment, students were asked to download the <a href="http://archive.ics.uci.edu/ml/datasets/Iris">Iris Dataset</a> and use it to implement the following three artifacts:
 <ol>
